@@ -1,0 +1,432 @@
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b4:52:8c, channel=[108, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b4:57:93, channel=[6, width=20], cc=AU, type=11n, rssi=-83, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b4:7d:ec, channel=[165, width=20], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b4:87:ac, channel=[112, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b4:a3:d3, channel=[1, width=20], cc=AU, type=11n, rssi=-83, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b4:a3:dc, channel=[48, width=40], cc=AU, type=11n, rssi=-79, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b4:a8:f3, channel=[1, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b4:a8:fc, channel=[100, width=40], cc=AU, type=11n, rssi=-77, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:5b:5c, channel=[64, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:75:cc, channel=[64, width=40], cc=AU, type=11n, rssi=-86, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:8c:73, channel=[6, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:8c:7c, channel=[149, width=40], cc=AU, type=11n, rssi=-63, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:98:ac, channel=[36, width=40], cc=AU, type=11n, rssi=-79, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:9f:7c, channel=[36, width=40], cc=AU, type=11n, rssi=-84, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:cb:03, channel=[6, width=20], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:cb:0c, channel=[64, width=40], cc=AU, type=11n, rssi=-92, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:db:b3, channel=[6, width=20], cc=AU, type=11n, rssi=-86, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:db:bc, channel=[36, width=40], cc=AU, type=11n, rssi=-91, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:e8:43, channel=[11, width=20], cc=AU, type=11n, rssi=-74, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:e8:4c, channel=[149, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=08:cc:68:b5:fb:1c, channel=[100, width=40], cc=AU, type=11n, rssi=-69, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:d1:e0:56:cc:ed, channel=[64, width=40], cc=AU, type=11n, rssi=-71, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:0d:5c:ac, channel=[40, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:0d:98:f4, channel=[64, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:3e:27:e4, channel=[64, width=40], cc=AU, type=11n, rssi=-80, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:3e:d4:f4, channel=[157, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:5b:83:3c, channel=[36, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:5b:8f:fc, channel=[56, width=40], cc=AU, type=11n, rssi=-92, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:5b:91:c4, channel=[161, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:e0:1a:23, channel=[1, width=20], cc=AU, type=11n, rssi=-67, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:e0:1a:24, channel=[60, width=40], cc=AU, type=11n, rssi=-67, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:e0:1a:2c, channel=[60, width=40], cc=AU, type=11n, rssi=-74, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:e0:28:ac, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:e1:d4:94, channel=[64, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:e1:d4:9c, channel=[64, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:f0:16:44, channel=[149, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=1c:e6:c7:f0:16:4c, channel=[149, width=40], cc=AU, type=11n, rssi=-71, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=4c:e1:76:f3:70:4c, channel=[100, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=84:78:ac:98:48:44, channel=[149, width=40], cc=AU, type=11n, rssi=-83, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=84:78:ac:98:48:4c, channel=[149, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=a0:0f:37:4c:eb:8c, channel=[100, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=b8:11:4b:81:9b:ac, channel=[132, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=d0:72:dc:04:b9:0c, channel=[104, width=40], cc=AU, type=11n, rssi=-92, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=d0:72:dc:5c:0e:b3, channel=[11, width=20], cc=AU, type=11n, rssi=-73, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'UNSW Guest' {length = 10, bytes = 0x554e5357204775657374}, bssid=d0:72:dc:5c:0e:bc, channel=[100, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b4:52:8e, channel=[108, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b4:9a:5e, channel=[44, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b4:a3:d1, channel=[1, width=20], cc=AU, type=11n, rssi=-84, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b4:a3:de, channel=[48, width=40], cc=AU, type=11n, rssi=-78, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b4:a8:f1, channel=[1, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b4:a8:fe, channel=[100, width=40], cc=AU, type=11n, rssi=-77, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:8c:71, channel=[6, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:8c:7e, channel=[149, width=40], cc=AU, type=11n, rssi=-63, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:98:ae, channel=[36, width=40], cc=AU, type=11n, rssi=-79, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:9f:71, channel=[1, width=20], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:cb:0e, channel=[64, width=40], cc=AU, type=11n, rssi=-92, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:e8:4e, channel=[149, width=40], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:f4:c1, channel=[1, width=20], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:f7:71, channel=[6, width=20], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=08:cc:68:b5:fb:1e, channel=[100, width=40], cc=AU, type=11n, rssi=-69, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:d1:e0:56:cc:ee, channel=[64, width=40], cc=AU, type=11n, rssi=-71, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:0d:98:f6, channel=[64, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:0d:98:fe, channel=[64, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:3e:27:e6, channel=[64, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:3e:27:ee, channel=[64, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:3e:d4:f6, channel=[157, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:5b:91:c6, channel=[161, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:e0:1a:21, channel=[1, width=20], cc=AU, type=11n, rssi=-66, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:e0:1a:26, channel=[60, width=40], cc=AU, type=11n, rssi=-66, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:e0:1a:2e, channel=[60, width=40], cc=AU, type=11n, rssi=-74, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:e0:28:ae, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:e1:d4:96, channel=[64, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:e1:d4:9e, channel=[64, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:f0:16:46, channel=[149, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=1c:e6:c7:f0:16:4e, channel=[149, width=40], cc=AU, type=11n, rssi=-73, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=4c:e1:76:f3:70:4e, channel=[100, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=58:97:1e:57:d9:ce, channel=[149, width=40], cc=AU, type=11n, rssi=-93, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=84:78:ac:98:48:46, channel=[149, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=84:78:ac:98:48:4e, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'uniwide' {length = 7, bytes = 0x756e6977696465}, bssid=d0:72:dc:5c:0e:b1, channel=[11, width=20], cc=AU, type=11n, rssi=-73, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b4:52:8d, channel=[108, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b4:57:92, channel=[6, width=20], cc=AU, type=11n, rssi=-84, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b4:a3:db, channel=[48, width=40], cc=AU, type=11n, rssi=-79, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b4:a8:f2, channel=[1, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b4:a8:fd, channel=[100, width=40], cc=AU, type=11n, rssi=-77, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:5b:5b, channel=[64, width=40], cc=AU, type=11n, rssi=-91, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:75:cb, channel=[64, width=40], cc=AU, type=11n, rssi=-86, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:8c:72, channel=[6, width=20], cc=AU, type=11n, rssi=-73, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:8c:7d, channel=[149, width=40], cc=AU, type=11n, rssi=-62, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:92:3b, channel=[64, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:98:ad, channel=[36, width=40], cc=AU, type=11n, rssi=-79, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:db:bb, channel=[36, width=40], cc=AU, type=11n, rssi=-91, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:e8:4b, channel=[149, width=40], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:f4:cd, channel=[48, width=40], cc=AU, type=11n, rssi=-86, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=08:cc:68:b5:fb:1b, channel=[100, width=40], cc=AU, type=11n, rssi=-69, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:d1:e0:56:cc:ec, channel=[64, width=40], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:0d:5c:ab, channel=[40, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:0d:98:f3, channel=[64, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:0d:98:fb, channel=[64, width=40], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:3e:27:e3, channel=[64, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:3e:27:eb, channel=[64, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:3e:d4:f5, channel=[157, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:5b:91:c3, channel=[161, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:e0:1a:22, channel=[1, width=20], cc=AU, type=11n, rssi=-67, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:e0:1a:25, channel=[60, width=40], cc=AU, type=11n, rssi=-67, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:e0:1a:2d, channel=[60, width=40], cc=AU, type=11n, rssi=-75, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:e0:28:ab, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:e1:d4:95, channel=[64, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:f0:16:43, channel=[149, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:f0:16:4b, channel=[149, width=40], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=1c:e6:c7:f0:21:3d, channel=[64, width=40], cc=AU, type=11n, rssi=-92, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=4c:e1:76:f3:70:4b, channel=[100, width=40], cc=AU, type=11n, rssi=-86, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=58:97:1e:57:d9:cb, channel=[149, width=40], cc=AU, type=11n, rssi=-93, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=84:78:ac:98:48:45, channel=[149, width=40], cc=AU, type=11n, rssi=-84, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=84:78:ac:98:48:4d, channel=[149, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=a0:0f:37:4c:eb:8d, channel=[100, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=b8:11:4b:81:9b:ab, channel=[132, width=40], cc=AU, type=11n, rssi=-95, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=d0:72:dc:5c:0e:b2, channel=[11, width=20], cc=AU, type=11n, rssi=-73, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'Global_Students' {length = 15, bytes = 0x476c6f62616c5f53747564656e7473}, bssid=d0:72:dc:5c:0e:bd, channel=[100, width=40], cc=AU, type=11n, rssi=-86, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'G14_334_QU-MIX_5G' {length = 17, bytes = 0x4731345f3333345f51552d4d49585f3547}, bssid=c0:06:c3:55:b4:94, channel=[149, width=80], cc=US, type=11n, rssi=-65, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'G14_334_QU-MIX' {length = 14, bytes = 0x4731345f3333345f51552d4d4958}, bssid=c0:06:c3:55:b4:92, channel=[10, width=40], cc=(null), type=11n, rssi=-69, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'F12-110-ClickShare' {length = 18, bytes = 0x4631322d3131302d436c69636b5368617265}, bssid=d8:f3:bc:54:85:73, channel=[36, width=20], cc=US, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b4:52:8f, channel=[108, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b4:87:af, channel=[112, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b4:a3:df, channel=[48, width=40], cc=AU, type=11n, rssi=-78, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b5:8c:70, channel=[6, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b5:8c:7f, channel=[149, width=40], cc=AU, type=11n, rssi=-62, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b5:8c:bf, channel=[112, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b5:98:af, channel=[36, width=40], cc=AU, type=11n, rssi=-79, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b5:9f:7f, channel=[36, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b5:db:bf, channel=[36, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b5:fb:10, channel=[1, width=20], cc=AU, type=11n, rssi=-78, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=08:cc:68:b5:fb:1f, channel=[100, width=40], cc=AU, type=11n, rssi=-69, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:d1:e0:56:cc:ef, channel=[64, width=40], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:0d:98:f0, channel=[1, width=20], cc=AU, type=11n, rssi=-80, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:0d:98:f7, channel=[64, width=40], cc=AU, type=11n, rssi=-83, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:0d:98:ff, channel=[64, width=40], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:3e:27:e7, channel=[64, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:3e:d4:f7, channel=[157, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:5b:83:37, channel=[36, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:e0:1a:20, channel=[1, width=20], cc=AU, type=11n, rssi=-67, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:e0:1a:27, channel=[60, width=40], cc=AU, type=11n, rssi=-66, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:e0:1a:2f, channel=[60, width=40], cc=AU, type=11n, rssi=-65, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:e0:28:af, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:e1:d4:97, channel=[64, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=1c:e6:c7:f0:16:47, channel=[149, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=84:78:ac:98:48:40, channel=[6, width=20], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=84:78:ac:98:48:47, channel=[149, width=40], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=84:78:ac:98:48:4f, channel=[149, width=40], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=a0:0f:37:4c:eb:8e, channel=[100, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'eduroam' {length = 7, bytes = 0x656475726f616d}, bssid=d0:72:dc:5c:0e:b0, channel=[11, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'AID' {length = 3, bytes = 0x414944}, bssid=00:26:bb:75:ed:cd, channel=[11, width=20], cc=AU, type=11n, rssi=-77, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+'AID' {length = 3, bytes = 0x414944}, bssid=00:26:bb:75:ed:ce, channel=[157, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b4:52:8a, channel=[108, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b4:57:95, channel=[6, width=20], cc=AU, type=11n, rssi=-83, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b4:6d:55, channel=[1, width=20], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b4:87:aa, channel=[112, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b4:87:ab, channel=[112, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b4:a8:f5, channel=[1, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b4:a8:fb, channel=[100, width=40], cc=AU, type=11n, rssi=-77, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:5b:5a, channel=[64, width=40], cc=AU, type=11n, rssi=-76, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:5b:5d, channel=[64, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:75:c5, channel=[6, width=20], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:75:ca, channel=[64, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:8c:74, channel=[6, width=20], cc=AU, type=11n, rssi=-72, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:8c:7a, channel=[149, width=40], cc=AU, type=11n, rssi=-66, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:8c:7b, channel=[149, width=40], cc=AU, type=11n, rssi=-63, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:8c:ba, channel=[112, width=40], cc=AU, type=11n, rssi=-94, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:92:3a, channel=[64, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:92:3d, channel=[64, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:98:aa, channel=[36, width=40], cc=AU, type=11n, rssi=-74, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:9f:72, channel=[1, width=20], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:cb:05, channel=[6, width=20], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:d4:0a, channel=[112, width=40], cc=AU, type=11n, rssi=-95, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:db:b5, channel=[6, width=20], cc=AU, type=11n, rssi=-86, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:e8:42, channel=[11, width=20], cc=AU, type=11n, rssi=-74, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:e8:4a, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:e8:4d, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:f7:72, channel=[6, width=20], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:fb:12, channel=[1, width=20], cc=AU, type=11n, rssi=-78, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=08:cc:68:b5:fb:1d, channel=[100, width=40], cc=AU, type=11n, rssi=-67, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:d1:e0:56:cc:ea, channel=[64, width=40], cc=AU, type=11n, rssi=-77, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:d1:e0:56:cc:eb, channel=[64, width=40], cc=AU, type=11n, rssi=-70, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:0d:5c:aa, channel=[40, width=40], cc=AU, type=11n, rssi=-89, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:0d:98:f2, channel=[64, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:0d:98:f5, channel=[1, width=20], cc=AU, type=11n, rssi=-80, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:0d:98:fa, channel=[64, width=40], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:3e:27:e2, channel=[64, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:3e:27:e5, channel=[64, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:3e:27:ed, channel=[64, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:5b:83:32, channel=[36, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:5b:8f:fa, channel=[56, width=40], cc=AU, type=11n, rssi=-91, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:5b:91:c5, channel=[161, width=40], cc=AU, type=11n, rssi=-95, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e0:1a:22, channel=[60, width=40], cc=AU, type=11n, rssi=-77, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e0:1a:23, channel=[60, width=40], cc=AU, type=11n, rssi=-77, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e0:1a:2a, channel=[60, width=40], cc=AU, type=11n, rssi=-65, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e0:1a:2b, channel=[60, width=40], cc=AU, type=11n, rssi=-75, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e0:28:aa, channel=[149, width=40], cc=AU, type=11n, rssi=-87, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e0:28:ad, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e1:d4:92, channel=[64, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e1:d4:93, channel=[64, width=40], cc=AU, type=11n, rssi=-82, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:e1:d4:9b, channel=[64, width=40], cc=AU, type=11n, rssi=-90, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:f0:16:42, channel=[149, width=40], cc=AU, type=11n, rssi=-83, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:f0:16:45, channel=[149, width=40], cc=AU, type=11n, rssi=-81, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=1c:e6:c7:f0:16:4a, channel=[149, width=40], cc=AU, type=11n, rssi=-71, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=84:78:ac:98:1f:7a, channel=[64, width=40], cc=AU, type=11n, rssi=-93, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=84:78:ac:98:48:42, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=84:78:ac:98:48:43, channel=[149, width=40], cc=AU, type=11n, rssi=-88, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=84:78:ac:98:48:44, channel=[6, width=20], cc=AU, type=11n, rssi=-85, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=84:78:ac:98:48:45, channel=[6, width=20], cc=AU, type=11n, rssi=-83, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=84:78:ac:98:48:4a, channel=[149, width=40], cc=AU, type=11n, rssi=-86, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=a8:9d:21:7a:b2:5a, channel=[52, width=40], cc=AU, type=11n, rssi=-96, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=d0:72:dc:04:b9:0a, channel=[104, width=40], cc=AU, type=11n, rssi=-92, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=d0:72:dc:3a:fe:cd, channel=[64, width=40], cc=AU, type=11n, rssi=-93, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=d0:72:dc:5c:0e:b4, channel=[11, width=20], cc=AU, type=11n, rssi=-73, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
+<HIDDEN>, bssid=d0:72:dc:5c:0e:b5, channel=[11, width=20], cc=AU, type=11n, rssi=-74, rsn=(null), wpa=(null), wep=no, ibss=no, ph=no, swap=no, hs20=no, airport=no, 
+
